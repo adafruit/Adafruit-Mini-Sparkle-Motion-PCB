@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1080" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 1440 1080">
-  <!-- Generator: Adobe Illustrator 28.7.3, SVG Export Plug-In . SVG Version: 1.2.0 Build 164)  -->
+  <!-- Generator: Adobe Illustrator 28.7.4, SVG Export Plug-In . SVG Version: 1.2.0 Build 166)  -->
   <g>
     <g id="Layer_1">
       <g>
@@ -21,7 +21,7 @@
           <rect x="106.0739" y="347.7043" width="18.2134" height="18.2134" rx="3.4045" ry="3.4045" fill="#009292"/>
           <text transform="translate(130.3162 362.0698)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="18.0149" font-weight="700" isolation="isolate"><tspan x="0" y="0">HS/QSPI</tspan></text>
           <rect x="106.0739" y="369.3223" width="18.2134" height="18.2134" rx="3.4046" ry="3.4046" fill="#b6dbff"/>
-          <text transform="translate(130.3162 383.6869)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="18.0149" font-weight="700" isolation="isolate"><tspan x="0" y="0">SDMMC</tspan></text>
+          <text transform="translate(130.3162 383.687)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="18.0149" font-weight="700" isolation="isolate"><tspan x="0" y="0">SDMMC</tspan></text>
           <rect x="106.0739" y="390.9401" width="18.2134" height="18.2134" rx="3.4046" ry="3.4046" fill="#6db6ff"/>
           <text transform="translate(129.9363 405.1147)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="18.0149" font-weight="700" isolation="isolate"><tspan x="0" y="0">Touch</tspan></text>
           <rect x="106.0739" y="412.558" width="18.2134" height="18.2134" rx="3.4046" ry="3.4046" fill="#b66dff"/>
@@ -6541,16 +6541,16 @@
           <rect x="939.9123" y="604.8252" width="73.3547" height="14.2319" rx="2.6603" ry="2.6603" fill="#24ff24"/>
           <text transform="translate(942.8003 616.0485)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="14.0768" isolation="isolate"><tspan x="0" y="0">ADC1_CH5</tspan></text>
           <rect x="1043.5353" y="604.3409" width="22.678" height="14.2319" rx="2.6603" ry="2.6603" fill="#6db6ff"/>
-          <text transform="translate(1046.4262 615.5642)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="14.0768" isolation="isolate"><tspan x="0" y="0">T8</tspan></text>
+          <text transform="translate(1046.4262 615.5641)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="14.0768" isolation="isolate"><tspan x="0" y="0">T8</tspan></text>
           <rect x="1068.8736" y="604.3409" width="48.0163" height="14.2319" rx="2.6603" ry="2.6603" fill="#b66dff"/>
-          <text transform="translate(1075.9868 615.5642)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="14.0768" isolation="isolate"><tspan x="0" y="0">RTC8</tspan></text>
+          <text transform="translate(1075.9868 615.5641)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="14.0768" isolation="isolate"><tspan x="0" y="0">RTC8</tspan></text>
           <rect x="1170.2268" y="604.3409" width="73.3547" height="14.2319" rx="2.6603" ry="2.6603" fill="#924900"/>
-          <text transform="translate(1181.561 615.5642)" fill="#fff" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="14.0768" isolation="isolate"><tspan x="0" y="0">32K_XN</tspan></text>
+          <text transform="translate(1181.561 615.5641)" fill="#fff" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="14.0768" isolation="isolate"><tspan x="0" y="0">32K_XN</tspan></text>
         </g>
         <g>
           <line x1="802.8182" y1="595.0488" x2="837.5411" y2="595.0488" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
           <rect x="813.5328" y="587.9328" width="48.0163" height="14.2319" rx="2.6603" ry="2.6603"/>
-          <text transform="translate(824.8696 599.156)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="14.0768" font-weight="700" isolation="isolate"><tspan x="0" y="0">GND</tspan></text>
+          <text transform="translate(824.8696 599.1559)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="14.0768" font-weight="700" isolation="isolate"><tspan x="0" y="0">GND</tspan></text>
         </g>
         <g>
           <line x1="802.8182" y1="611.9411" x2="837.5411" y2="611.9411" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
@@ -6560,7 +6560,7 @@
         <g>
           <line x1="802.8182" y1="628.8333" x2="837.5411" y2="628.8333" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
           <rect x="813.9486" y="622.1329" width="47.1851" height="13.4007" rx="2.2446" ry="2.2446" fill="#e6e6e6" stroke="#737373" stroke-width=".3543"/>
-          <text transform="translate(825.8559 632.9392)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="14.0768" font-weight="700" isolation="isolate"><tspan x="0" y="0">D32</tspan></text>
+          <text transform="translate(825.8559 632.9391)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="14.0768" font-weight="700" isolation="isolate"><tspan x="0" y="0">D32</tspan></text>
         </g>
         <g>
           <line x1="802.8182" y1="645.7255" x2="837.5411" y2="645.7255" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
@@ -6570,7 +6570,7 @@
         <g>
           <line x1="738.3487" y1="507.5648" x2="703.6258" y2="507.5648" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
           <rect x="679.6177" y="500.4487" width="48.0163" height="14.2319" rx="2.6603" ry="2.6603"/>
-          <text transform="translate(690.9469 511.5466) rotate(.5581)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="14.0768" font-weight="700" isolation="isolate"><tspan x="0" y="0">GND</tspan></text>
+          <text transform="translate(690.9323 511.5186) rotate(.5581)" fill="#fff" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="14.0768" font-weight="700" isolation="isolate"><tspan x="0" y="0">GND</tspan></text>
         </g>
         <g>
           <line x1="775.0787" y1="507.5648" x2="809.8016" y2="507.5648" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
@@ -6581,7 +6581,7 @@
           <g>
             <line x1="724.9112" y1="747.8925" x2="1262.3475" y2="747.8925" fill="none" stroke="#8c8c8c" stroke-linecap="round" stroke-width=".7087"/>
             <rect x="750.5722" y="741.192" width="47.1851" height="13.4007" rx="2.2445" ry="2.2445" fill="#e6e6e6" stroke="#737373" stroke-width=".3543"/>
-            <text transform="translate(761.4936 751.9997)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="14.0768" font-weight="700" isolation="isolate"><tspan x="0" y="0">D13</tspan></text>
+            <text transform="translate(766.8755 751.9997)" font-family="CourierNewPS-BoldMT, &apos;Courier New&apos;" font-size="14.0768" font-weight="700" isolation="isolate"><tspan x="0" y="0">A0</tspan></text>
             <rect x="845.5954" y="740.7764" width="22.678" height="14.2319" rx="2.6603" ry="2.6603" fill="#ffff6d"/>
             <text transform="translate(848.4868 751.9997)" font-family="CourierNewPSMT, &apos;Courier New&apos;" font-size="14.0768" isolation="isolate"><tspan x="0" y="0">13</tspan></text>
             <rect x="870.9337" y="740.7764" width="73.3547" height="14.2319" rx="2.6603" ry="2.6603" fill="#24ff24"/>
